@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **Repository relocated / 開発先を移行しました（2026-11-04）**  
+> CircuitForge AI の2026年度ゼミ論・開発の正本は **[furuhashilab/2026gsc_TomoyaAiko](https://github.com/furuhashilab/2026gsc_TomoyaAiko)** です。  
+> [現行README](https://github.com/furuhashilab/2026gsc_TomoyaAiko/blob/main/README.md) / [開発手順](https://github.com/furuhashilab/2026gsc_TomoyaAiko/blob/main/docs/WORKFLOW.md) / [Issue一覧](https://github.com/furuhashilab/2026gsc_TomoyaAiko/issues) / [移行対応表](https://github.com/furuhashilab/2026gsc_TomoyaAiko/blob/main/docs/MIGRATION.md)  
+> **新しいIssue・PR・開発作業は正式リポジトリで行ってください。** この旧リポジトリは過去のコミット・PRの参照用に残しています。以下は移行前のREADME原文です。
+
+---
+
 # CircuitForge AI
 
 **Generate imaginary motorsport routes from real geospatial data, then experience them in 3D.**
