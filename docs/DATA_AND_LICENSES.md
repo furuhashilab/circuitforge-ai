@@ -23,4 +23,4 @@
 7. Use openly licensed/test fixtures where possible; keep geospatial preprocessing deterministic and documented.
 
 ## First review task
-Issue [#9](../issues/9): populate a verified version of the above matrix with authoritative URLs, attribution wording, data provenance, current policy links, and a proposed code-license decision.
+Issue [#9](https://github.com/furuhashilab/circuitforge-ai/issues/9): populate a verified version of the above matrix with authoritative URLs, attribution wording, data provenance, current policy links, and a proposed code-license decision.
