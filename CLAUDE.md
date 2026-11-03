@@ -2,6 +2,9 @@
 
 Claude Code is the primary implementation assistant for this research project. Read `README.md`, `docs/RESEARCH_DESIGN.md`, `docs/ARCHITECTURE.md`, `docs/ROADMAP.md`, and `docs/DATA_AND_LICENSES.md` before nontrivial changes.
 
+## Start here — practical work sequence
+Read [docs/WORKFLOW.md](docs/WORKFLOW.md) before starting any new issue. It contains the actual step-by-step workflow, phase gates, owner responsibilities and the first Claude Code prompt. **Do not skip to distillation or implement multiple phases in one request.** For each task: read issue → propose a small plan → work on an issue-specific branch → test and report actual results → open PR → wait for human approval before merge.
+
 ## Mission and boundaries
 - Build a research system for **fictional** motorsport routes from real geospatial data, initially an urban closed loop with OSM + optional PLATEAU 3D context.
 - The **first executable milestone** is a manually selected route shown in CesiumJS, followed by an animated generic 3D vehicle and follow-camera. It is not an accurate racing simulator.
