@@ -6,6 +6,16 @@
 
 [日本語](#プロジェクト概要) | [English summary](#english-summary)
 
+## 最初に読む：開発の進め方
+
+**「これから何を、どの順番で、どのツールを使って進めるか」は [実作業ガイド（WORKFLOW.md）](docs/WORKFLOW.md) に具体的にまとめています。** 初めて着手する場合は、まずこのページを読んでください。
+
+1. **研究条件の確認：** [#1 研究目的・対象都市](https://github.com/furuhashilab/circuitforge-ai/issues/1) と [#9 データ・ライセンス](https://github.com/furuhashilab/circuitforge-ai/issues/9)。
+2. **実装開始：** [#2 開発環境](https://github.com/furuhashilab/circuitforge-ai/issues/2) をClaude Codeで、1 Issue → 1ブランチ → 1 PRで進める。
+3. **最初の動く成果物：** [#3](https://github.com/furuhashilab/circuitforge-ai/issues/3)〜[#6](https://github.com/furuhashilab/circuitforge-ai/issues/6) を通して、**手動のルートを3Dで表示し、車両が追走できるデモ**を完成させる。その後に自動生成とAI研究へ進む。
+
+作業のたびに「何を確認するか」、Macでの操作例、Claude Codeへの最初の指示文、PRの書き方、卒論向けの実験記録方法まで [WORKFLOW.md](docs/WORKFLOW.md) に記載しています。
+
 ## プロジェクト概要
 
 CircuitForge AI は、ユーザーが**好きな地域**と**理想のコースの特徴**を指定すると、実在する道路網・都市モデル・標高などの地理空間情報をもとに、**架空のモータースポーツコース**を提案し、そのレイアウトを3Dで追体験できる研究開発プロジェクトです。

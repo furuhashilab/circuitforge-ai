@@ -2,6 +2,8 @@
 
 This repository is an **early-stage university GIS research prototype**. Development lead: [@mapbytomoya](https://github.com/mapbytomoya).
 
+**New contributors and AI agents:** start with [実作業ガイド / WORKFLOW.md](docs/WORKFLOW.md), which describes the practical order of Issues, local clone/branch/Claude Code steps, verification, PR handoff and research recordkeeping. This file covers contributor rules; WORKFLOW.md is the hands-on tutorial.
+
 ## Workflow
 1. Check [Issues](https://github.com/furuhashilab/circuitforge-ai/issues) for scope, assignee and acceptance criteria. Discuss scope changes before implementing.
 2. Make one issue-sized branch off `main` (e.g. `feat/issue-6-camera`, `docs/issue-1-study-design`).

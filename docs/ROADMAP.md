@@ -2,6 +2,8 @@
 
 All features below are **planned** unless a merged PR and reproducible demonstration establish completion. No deadlines have been committed.
 
+**How to execute the roadmap step by step:** [実作業ガイド / WORKFLOW.md](WORKFLOW.md) — starting actions, Claude Code instructions, GitHub branch/PR cycle, and stage-by-stage completion gates.
+
 ## P0 — Get a credible first 3D demo
 | Order | Work | GitHub |
 |---|---|---|
